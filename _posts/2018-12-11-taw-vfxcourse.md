@@ -5,6 +5,8 @@ title:  "The Animation Workshop - VFX Professional Course 2018"
 date:   2018-12-11
 ---
 
+{% include vimeoPlayer.html id=305606118 %}
+
 But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.
 
 >Good design is as little design as possible, said Dieter. Use quotations very carefully; especially if you don't understand them. 
