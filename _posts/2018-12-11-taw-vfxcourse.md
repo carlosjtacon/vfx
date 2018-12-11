@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Styling guide for Hikari: best practices"
-date:   2014-01-27 16:57:51
+permalink: /taw-vfx-2018/
+title:  "The Animation Workshop - VFX Professional Course 2018"
+date:   2018-12-11
 ---
 
 But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.
@@ -49,7 +50,7 @@ var separate = function(css) {
 };
 {% endhighlight %}
 
-<img src="{{ site.baseurl }}/assets/img/img2.jpg">
+<img src="{{ site.baseurl }}/assets/img/avatar.jpg">
 
 # Heading 1
 Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.

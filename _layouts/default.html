@@ -25,23 +25,19 @@
         <img src="{{ site.baseurl }}/assets/img/avatar.jpg" alt="Picture" title="That's me, {{ site.author }}.">
       </figure>
       <div class="bio">
-          <h1>Hi, I'm {{ site.author }}.</h1>
+          <h1>hi, i'm {{ site.author }}.</h1>
           <p>{{ site.author-bio }}</p>
       </div>
       <nav>
-        <h6>Follow me on</h6>
+        <h6>whereami</h6>
         <ul>
+          <li><a target="_blank" href="https://carlosjtacon.com">website</a></li>
+          <li><a target="_blank" href="mailto:carlosjtacon@gmail.com">email</a></li>
           {% if site.twitter %}
-          <li><a target="_blank" href="https://twitter.com/{{ site.twitter }}">Twitter</a></li>
+          <li><a target="_blank" href="https://twitter.com/{{ site.twitter }}">twitter</a></li>
           {% endif %}
           {% if site.github %}
-          <li><a target="_blank" href="https://github.com/{{ site.github }}">Github</a></li>
-          {% endif %}
-          {% if site.dribbble %}
-          <li><a target="_blank" href="https://dribbble.com/{{ site.dribbble }}">Dribbble</a></li>
-          {% endif %}
-          {% if site.instagram %}
-          <li><a target="_blank" href="https://instagram.com/{{ site.instagram }}">Instagram</a></li>
+          <li><a target="_blank" href="https://github.com/{{ site.github }}">github</a></li>
           {% endif %}
         </ul>
       </nav>
