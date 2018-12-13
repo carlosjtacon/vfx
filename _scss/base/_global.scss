@@ -106,3 +106,8 @@ a {
   width: 100%;
   height: 100%;
 }
+
+figcaption {
+  color: grey;
+  font: $font-size-xs $font-family; 
+}
