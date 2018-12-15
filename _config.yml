@@ -1,5 +1,6 @@
 # Title of your blog; shows in the header
 name: "carlos' vfx blog"
+title: "carlos' vfx blog"
 
 # Description of your content (will only be used on Google Search)
 description: "vfx resources"
@@ -7,8 +8,8 @@ description: "vfx resources"
 # Your name. Will show in your footer + sidebar
 author: "carlos tacón"
 
-url: "http://carlosjtacon.com"
-baseurl: "/vfx"
+url: "http://vfx.carlosjtacon.com"
+baseurl: "/"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "vfx generalist from spain currently @ the animation workshop in denmark"
