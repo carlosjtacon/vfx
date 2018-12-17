@@ -9,7 +9,7 @@ description: "vfx resources"
 author: "carlos tacón"
 
 url: "http://vfx.carlosjtacon.com"
-baseurl: "/"
+# baseurl: "/"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "vfx generalist from spain currently @ the animation workshop in denmark"
