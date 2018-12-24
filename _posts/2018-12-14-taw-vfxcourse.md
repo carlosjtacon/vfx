@@ -10,7 +10,7 @@ Last week I finished the VFX generalist professional course at [the animation wo
 The professional courses that the school offers are focused on learning in order to get a job in the industry, the teachers are professionals that come to the school to teach us their speciality from all around the world. This year we had really friendly and over the top teachers: [Björn Gromoll](https://www.imdb.com/name/nm2671335) is the course headmaster and he showed us the basics of VFX pipeline, [Giancarlo Gallinoro](https://www.imdb.com/name/nm8954393) former course student tracking and matchmoving, [Andrew Hodgson](https://www.imdb.com/name/nm7106522) enlightened us with hard surface modeling, [Thom Jones](https://www.imdb.com/name/nm5783004) the texturing wizard, [Marc Tingle](https://www.imdb.com/name/nm3568210) swiss army knife of lookdev, lighting and layout, [Hugo Guerra](https://www.imdb.com/name/nm1512412) master of compositing, [Geoffroi Ridel](https://www.imdb.com/name/nm4842552) struggled with my (zero) photoshop skills for digital matte painting (sorry) and [Leigh Russell](https://www.imdb.com/name/nm3778096) who is the school's CG boss was supervising the final week. Thanks for teaching us! 😸
 
 <figure>
-    <img src="{{site.baseurl}}/assets/img/{{page.permalink}}/vfx-class.jpg" alt='missing' />
+    <img src="{{site.baseurl}}/assets/img/{{page.permalink}}/vfx-class.jpg" alt="taw vfx class picture" />
     <figcaption>The whole class with our modeling teacher Andrew Hodgson (yes, I'm the shortest one)</figcaption>
 </figure>
 
