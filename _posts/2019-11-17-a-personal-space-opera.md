@@ -19,7 +19,3 @@ In high school, we got introduced to 3ds Max 2010 and Reactor, the physics simul
 After half a year making my first steps in CG, I suddenly stopped. I went into university and built up my career as a programmer focused on web development. But after some time of personal turbulences, I decided to apply to a VFX course and give it a try. I made a short reel with my 15-years-old-self material and sent it to [The Animation Workshop](https://animationworkshop.via.dk/en/programs-and-courses/vfx). That was one year (ok, one year and 2 months) ago, I maybe knew 1% of the stuff we were learning and I developed myself as a VFX artist in 4 non-stop working months.
 
 This last year has been crazy: I worked 5 months in a short film at the school, had the opportunity to teach the introduction week on this year’s VFX course and jumped into [Ghost VFX](https://ghost.dk) in Copenhagen to start my [proffessional career](https://www.imdb.com/name/nm10715548/) working on [The Mandalorian](https://www.imdb.com/title/tt8111088) (and some other projects!), and closed the circle that started years ago with my little self watching people fighting with lightsabers on a CRT TV.
-
-<img src="{{site.baseurl}}/assets/img/{{page.permalink}}/sw_1.jpg" alt="C3PO - Star Wars" />
-
-Looking forward to new exciting adventures on a galaxy not so far away!
